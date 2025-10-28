@@ -180,9 +180,8 @@ let baseURL = "http://localhost:8080/api"
 ## 8. Future Improvements
 
 - Add user authentication and accounts.  
-- Push notifications for wishlist updates.  
-- Product search and filtering.  
-- Implement caching with Redis.  
+- Paging or cursor for large number of products.  
+- Product search and filtering.   
 - More detailed error handling and UX improvements.  
 
 ---
