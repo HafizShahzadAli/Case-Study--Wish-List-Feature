@@ -1,0 +1,452 @@
+[
+  {
+    "_id": "68fd30bf702d3fd489794f68",
+    "brand": "Balenciaga",
+    "name": "Triple S Paint Sneaker",
+    "price": 2860,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-22T10:15:30Z"
+  },
+  {
+    "_id": "68fd30bfc8d93a2738c73c9f",
+    "brand": "Gucci",
+    "name": "Vlogo Signature Loafers",
+    "price": 322,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-10T14:22:11Z"
+  },
+  {
+    "_id": "68fd30bfe6360f7748af51e3",
+    "brand": "Prada",
+    "name": "Eclipse Shadow Runner",
+    "price": 1495,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/032/049/126/non_2x/white-sport-shoes-isolated-on-transparent-background-ai-generative-free-png.png",
+    "addDate": "2025-10-24T08:05:47Z"
+  },
+  {
+    "_id": "68fd30bfa6d6799e78dcb070",
+    "brand": "Louis Vuitton",
+    "name": "Nova Edge Sneakers",
+    "price": 2510,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-12T16:40:00Z"
+  },
+  {
+    "_id": "68fd30bf61c6a0a04cf949e6",
+    "brand": "Valentino",
+    "name": "Gravity Pulse Trainer",
+    "price": 1875,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-21T09:18:55Z"
+  },
+  {
+    "_id": "68fd30bff937e2d016650a37",
+    "brand": "Dior",
+    "name": "Monogram Classic Derby",
+    "price": 780,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-08T11:22:10Z"
+  },
+  {
+    "_id": "68fd30bfe75b9ea56b7ea40d",
+    "brand": "Hermès",
+    "name": "Royal Crest Penny Loafers",
+    "price": 2240,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-23T13:05:42Z"
+  },
+  {
+    "_id": "68fd30bfec30f4fea0da6802",
+    "brand": "Fendi",
+    "name": "Heritage Luxe Brogues",
+    "price": 1199,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/051/956/260/non_2x/stylish-white-and-yellow-high-top-sneaker-with-blue-sole-on-a-transparent-background-png.png",
+    "addDate": "2025-10-09T15:50:33Z"
+  },
+  {
+    "_id": "68fd30bffb841dacee5c5161",
+    "brand": "Givenchy",
+    "name": "Urban Craft Slip-Ons",
+    "price": 430,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/032/049/126/non_2x/white-sport-shoes-isolated-on-transparent-background-ai-generative-free-png.png",
+    "addDate": "2025-10-25T07:42:20Z"
+  },
+  {
+    "_id": "68fd30bf8b8c671b235a8e2d",
+    "brand": "Burberry",
+    "name": "Infinity Trail Sneaker",
+    "price": 990,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-14T10:10:10Z"
+  },
+  {
+    "_id": "68fd30bf0e1e432f31ab9f81",
+    "brand": "Versace",
+    "name": "Elite Fusion High-Top",
+    "price": 2715,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-20T09:55:44Z"
+  },
+  {
+    "_id": "68fd30bf16c8839599ccd688",
+    "brand": "Saint Laurent (YSL)",
+    "name": "Carbon Street Sneakers",
+    "price": 640,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-17T12:34:20Z"
+  },
+  {
+    "_id": "68fd30bf60f69c68d8644e17",
+    "brand": "Gucci",
+    "name": "Monarch Metal Buckle",
+    "price": 255,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-06T08:10:05Z"
+  },
+  {
+    "_id": "68fd30bf6ec7a75046f26890",
+    "brand": "Prada",
+    "name": "LuxeFit Signature Buckle",
+    "price": 610,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/065/653/545/non_2x/a-green-leather-belt-with-a-gold-buckle-free-png.png",
+    "addDate": "2025-10-24T11:25:11Z"
+  },
+  {
+    "_id": "68fd30bf0a47bad9a8c35873",
+    "brand": "Fendi",
+    "name": "Titan Shield Buckle",
+    "price": 349,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/048/896/825/non_2x/brown-leather-satchel-bag-with-buckles-free-png.png",
+    "addDate": "2025-10-05T14:48:50Z"
+  },
+  {
+    "_id": "68fd30bf955ede1e9315734c",
+    "brand": "Hermès",
+    "name": "IconX Designer Buckle",
+    "price": 420,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-23T09:12:40Z"
+  },
+  {
+    "_id": "68fd30bf93c4320d2b6486a1",
+    "brand": "Louis Vuitton",
+    "name": "Imperial Classic Buckle",
+    "price": 1999,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/065/653/545/non_2x/a-green-leather-belt-with-a-gold-buckle-free-png.png",
+    "addDate": "2025-10-11T13:30:15Z"
+  },
+  {
+    "_id": "68fd30bf2c60b89c2685caec",
+    "brand": "Burberry",
+    "name": "Dynasty Buckle Loafers",
+    "price": 1740,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-25T12:15:00Z"
+  },
+  {
+    "_id": "68fd30bfb7d76ef0ce8e2474",
+    "brand": "Versace",
+    "name": "PrimeCraft Buckle Boots",
+    "price": 2200,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-09T16:20:10Z"
+  },
+  {
+    "_id": "68fd30bfddb9f09b6b632b0c",
+    "brand": "Dior",
+    "name": "Dynasty Buckle Loafers",
+    "price": 1315,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-21T08:45:33Z"
+  },
+  {
+    "_id": "68fd30bf86c97f736932f9cd",
+    "brand": "Fendi",
+    "name": "PrimeCraft Buckle Boots",
+    "price": 1490,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-13T14:22:10Z"
+  },
+  {
+    "_id": "68fd30bf4a31948ac825f31b",
+    "brand": "PRADA",
+    "name": "Triple S Paint Sneaker",
+    "price": 1340,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-25T09:30:22Z"
+  },
+  {
+    "_id": "68fd30bfd08835b1ecdbf3f9",
+    "brand": "Louis Vuitton",
+    "name": "Nova Edge Sneakers",
+    "price": 2995,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-07T10:40:50Z"
+  },
+  {
+    "_id": "68fd30bf5fef7687ee05b01b",
+    "brand": "Gucci",
+    "name": "Elite Fusion High-Top",
+    "price": 1785,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-23T07:05:30Z"
+  },
+  {
+    "_id": "68fd30bf3fa0f71e53840854",
+    "brand": "Balenciaga",
+    "name": "Carbon Street Sneakers",
+    "price": 950,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-18T12:50:44Z"
+  },
+  {
+    "_id": "68fd30bfdc9e4a57ac771e29",
+    "brand": "Valentino",
+    "name": "Monarch Metal Buckle",
+    "price": 410,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-12T11:05:21Z"
+  },
+  {
+    "_id": "68fd30bf96c8eb8d112b1a44",
+    "brand": "Dior",
+    "name": "Titan Shield Buckle",
+    "price": 380,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/048/896/825/non_2x/brown-leather-satchel-bag-with-buckles-free-png.png",
+    "addDate": "2025-10-25T15:42:11Z"
+  },
+  {
+    "_id": "68fd30bf3adf0c19f1c9178c",
+    "brand": "Hermès",
+    "name": "IconX Designer Buckle",
+    "price": 670,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-09T13:35:50Z"
+  },
+  {
+    "_id": "68fd30bfc20941899a6de91b",
+    "brand": "Fendi",
+    "name": "Imperial Classic Buckle",
+    "price": 925,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/065/653/545/non_2x/a-green-leather-belt-with-a-gold-buckle-free-png.png",
+    "addDate": "2025-10-20T09:22:44Z"
+  },
+  {
+    "_id": "68fd30bfdf1c49aac21d9d4d",
+    "brand": "Burberry",
+    "name": "Dynasty Buckle Loafers",
+    "price": 1580,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-24T10:15:00Z"
+  },
+  {
+    "_id": "68fd30bf75a94394f12b4ef9",
+    "brand": "Versace",
+    "name": "PrimeCraft Buckle Boots",
+    "price": 2100,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-08T16:50:33Z"
+  },
+  {
+    "_id": "68fd30bf0d30840667c8ed2e",
+    "brand": "Gucci",
+    "name": "Dynasty Buckle Loafers",
+    "price": 1375,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-22T09:42:12Z"
+  },
+  {
+    "_id": "68fd30bf43e4b797a61fe0f3",
+    "brand": "PRADA",
+    "name": "Triple S Paint Sneaker",
+    "price": 1420,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-18T11:20:55Z"
+  },
+  {
+    "_id": "68fd30bfe69f7c5b0d4691a2",
+    "brand": "Louis Vuitton",
+    "name": "Eclipse Shadow Runner",
+    "price": 2400,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/032/049/126/non_2x/white-sport-shoes-isolated-on-transparent-background-ai-generative-free-png.png",
+    "addDate": "2025-10-11T13:45:30Z"
+  },
+  {
+    "_id": "68fd30bfdfdf9a0610cacc2b",
+    "brand": "Balenciaga",
+    "name": "Nova Edge Sneakers",
+    "price": 1975,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-24T08:50:12Z"
+  },
+  {
+    "_id": "68fd30bfaae6ffe59cab112e",
+    "brand": "Dior",
+    "name": "Gravity Pulse Trainer",
+    "price": 1850,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-10T15:35:40Z"
+  },
+  {
+    "_id": "68fd30bf3ed10d3b8e0407ae",
+    "brand": "Hermès",
+    "name": "Monogram Classic Derby",
+    "price": 760,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/252/617/non_2x/modern-sport-shoes-free-png.png",
+    "addDate": "2025-10-19T09:25:55Z"
+  },
+  {
+    "_id": "68fd30bf2b27f573887e2e81",
+    "brand": "Givenchy",
+    "name": "Royal Crest Penny Loafers",
+    "price": 2180,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-22T10:30:33Z"
+  },
+  {
+    "_id": "68fd30bf8b81bcfe5cbe5b16",
+    "brand": "Burberry",
+    "name": "Heritage Luxe Brogues",
+    "price": 1125,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/051/956/260/non_2x/stylish-white-and-yellow-high-top-sneaker-with-blue-sole-on-a-transparent-background-png.png",
+    "addDate": "2025-10-15T13:40:20Z"
+  },
+  {
+    "_id": "68fd30bfabc5d95638fe12c7",
+    "brand": "Versace",
+    "name": "Urban Craft Slip-Ons",
+    "price": 475,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/032/049/126/non_2x/white-sport-shoes-isolated-on-transparent-background-ai-generative-free-png.png",
+    "addDate": "2025-10-23T11:15:10Z"
+  },
+  {
+    "_id": "68fd30bfd22253b9bbb5b482",
+    "brand": "Saint Laurent (YSL)",
+    "name": "Infinity Trail Sneaker",
+    "price": 985,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-09T08:55:22Z"
+  },
+  {
+    "_id": "68fd30bf35816c2ad8c2004b",
+    "brand": "Gucci",
+    "name": "Elite Fusion High-Top",
+    "price": 1760,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/053/717/080/non_2x/stylish-white-and-gray-sneaker-with-modern-design-perfect-for-fashion-casual-wear-or-athletic-activities-isolated-on-a-transparent-background-png.png",
+    "addDate": "2025-10-25T12:45:30Z"
+  },
+  {
+    "_id": "68fd30bf381b5a332ba88896",
+    "brand": "Balenciaga",
+    "name": "Carbon Street Sneakers",
+    "price": 910,
+    "category": "shoes",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/046/407/938/non_2x/unique-and-aesthetically-colorful-premium-running-sports-shoes-sneakers-isolated-on-a-transparent-background-free-png.png",
+    "addDate": "2025-10-16T10:10:10Z"
+  },
+  {
+    "_id": "68fd30bf1e255cae01c76504",
+    "brand": "Louis Vuitton",
+    "name": "Monarch Metal Buckle",
+    "price": 395,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-12T13:25:15Z"
+  },
+  {
+    "_id": "68fd30bffe78715bcc257acf",
+    "brand": "Prada",
+    "name": "LuxeFit Signature Buckle",
+    "price": 635,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/065/653/545/non_2x/a-green-leather-belt-with-a-gold-buckle-free-png.png",
+    "addDate": "2025-10-23T10:05:20Z"
+  },
+  {
+    "_id": "68fd30bf39f6a4b5e6320dea",
+    "brand": "Fendi",
+    "name": "Titan Shield Buckle",
+    "price": 385,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/048/896/825/non_2x/brown-leather-satchel-bag-with-buckles-free-png.png",
+    "addDate": "2025-10-07T14:10:40Z"
+  },
+  {
+    "_id": "68fd30bfa31456adee561662",
+    "brand": "Hermès",
+    "name": "IconX Designer Buckle",
+    "price": 665,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/055/063/684/non_2x/ornate-leather-belt-with-golden-buckle-png.png",
+    "addDate": "2025-10-19T09:45:55Z"
+  },
+  {
+    "_id": "68fd30bf564c3390ffb2dd1c",
+    "brand": "Louis Vuitton",
+    "name": "Imperial Classic Buckle",
+    "price": 975,
+    "category": "buckles",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/065/653/545/non_2x/a-green-leather-belt-with-a-gold-buckle-free-png.png",
+    "addDate": "2025-10-21T12:50:30Z"
+  },
+  {
+    "_id": "68fd30bfcd61c114e4d612ed",
+    "brand": "Burberry",
+    "name": "Dynasty Buckle Loafers",
+    "price": 1600,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-08T13:35:10Z"
+  },
+  {
+    "_id": "68fd30bf46c22fce51364000",
+    "brand": "Versace",
+    "name": "PrimeCraft Buckle Boots",
+    "price": 2150,
+    "category": "loafers",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/059/053/672/non_2x/elegant-mens-brown-leather-loafer-shoe-with-metal-buckle-detail-free-png.png",
+    "addDate": "2025-10-24T09:20:40Z"
+  }
+]
